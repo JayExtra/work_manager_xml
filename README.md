@@ -5,4 +5,4 @@ This is an XML implementation of the work manager tutorial by Phillip Lackner on
 Original Youtube tutorial by Phillip : https://youtu.be/Psc2xyutE2U
 
 Follow me on Twitter : https://twitter.com/JamesTravor
-Let's connect on LinkedIn : htps://linkedin.com/in/james-gitonga-3138b296
+Let's connect on LinkedIn : https://linkedin.com/in/james-gitonga-3138b296
